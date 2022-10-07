@@ -55,6 +55,7 @@ public class SumOfMatdiga {
 		// Passing the array as an argument to the
 		// function defined above
 		//missing
+		Sum_of_Diagonals1(b, 4);
 	
 	}
 }
